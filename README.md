@@ -40,16 +40,9 @@ Welcome to my GitHub profile! I'm Puskar Saha, a student at Sister Nivedita Univ
 Here's a glimpse of some of my projects:
 
 * **translator-v1.0 (HTML):** A web-based translator.
-* **Certificate (HTML):** A certificate generation project.
-* **Artificial-Intelligence (Python):** A collection of AI and Python programs.
-* **Computer-Networks (C):** Programs related to computer networking.
 * **project_eve (C++):** A private AI-powered chatbot for legal assistance.
 * **Web-Dev (HTML):** My first functional front-end web page.
-* **Shell_Script (C):** Shell script programs for Bash.
 * **case_compass (HTML):** A forked project for a legal aid app (Google Solution Challenge).
-* **C (C):** C programs from my university coursework.
-* **Cpp (C++):** C++ programs from my university coursework.
-* **Machine_Learning (Jupyter Notebook):** Private machine learning projects.
 * **Machine_Learning_SNU (Jupyter Notebook):** Machine learning bootcamp projects from SNU.
 
 ## Connect with Me
